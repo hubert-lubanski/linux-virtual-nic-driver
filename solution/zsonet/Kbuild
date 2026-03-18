@@ -1,0 +1,3 @@
+obj-m := zsonet.o
+
+zsonet-objs := zsonet-pci-driver.o zsonet-net-driver.o zsonet-hw.o
